@@ -29,7 +29,7 @@ import VueChillCodeInput from 'vue-chill-code-input';
 | name   | type   | required | default | options |
 |--------|--------|----------|---------| --- |
 | length | Number | false    | 4       |  |
-| type | String | false    | text | text, number |
+| type | String | false    | text | text, number, tel |
 | autoFocus | Boolean | false    | false  |     |
 | autoBlur | Boolean | false    | true  |     |
 
