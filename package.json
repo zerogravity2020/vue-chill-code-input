@@ -1,5 +1,5 @@
 {
-    "name": "vue-chill-code-input",
+    "name": "@zerogravity2020/vue-chill-code-input",
     "version": "0.1.1",
     "description": "Easy Verification Code Input for your Vue projects",
     "author": "Tibor Skvrnda <tibor@skvrnda.sk> (https://skvrnda.sk/)",
@@ -12,13 +12,13 @@
         "pincode",
         "pin"
     ],
-    "homepage": "https://github.com/tskvrnda/vue-chill-code-input#readme",
+    "homepage": "https://github.com/zerogravity2020/vue-chill-code-input#readme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/tskvrnda/vue-chill-code-input"
+        "url": "https://github.com/zerogravity2020/vue-chill-code-input"
     },
     "bugs": {
-        "url": "https://github.com/tskvrnda/vue-chill-code-input/issues"
+        "url": "https://github.com/zerogravity2020/vue-chill-code-input/issues"
     },
     "license": "MIT",
     "main": "dist/vue-chill-code-input.ssr.js",
